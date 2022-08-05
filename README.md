@@ -31,3 +31,8 @@ There are 10 types of people in this world, those who understand binary and thos
 <img src="task_html_css_intro/html_css_done.png" alt="html css done screen">
 
 Цей матеріал я вже вивчав раніше, але відкрив для себе дещо нове стасовно шрифтів. Дякую.
+
+## Responsive Web Design
+
+<img src="task_responsive_web_design/flexbox_done.png" alt="flexbox done screen">
+<img src="task_responsive_web_design/grid_done.png" alt="grid done screen">
